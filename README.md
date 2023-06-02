@@ -17,7 +17,7 @@ by predicting employees likely to quit, it might be possible to identify factors
 
 <div class="alert alert-block alert-warning">
 <img style="float: left" src="https://i.postimg.cc/kXz8cFqC/005-Img-Yellow-Notes-Draft-1-20220819.png" width="60">
-<b style = "font-family: Arial; font-size: 16px">Remember:</b><p style = "font-family:Verdana; font-size:14px">We must be <b>OBJECTIVE</b> in analyzing the data in order to acquire the valuable insights as opposed being biased and <b>UNDERSTAND</b> by collecting, fact checking or challenging the data and other sources. Go to where the data - Genchi Genbutsu attitudes. Data must be <b>Clear, Objective, Valuable, Focus, Agile, Scientific and Timeframe (COV-FAST)</b></p>
+<b style = "font-family: Arial; font-size: 16px">Remember:</b><p style = "font-family:Verdana; font-size:14px"> We must be OBJECTIVE</b> in analyzing the data in order to acquire valuable insights, as opposed to being biased and UNDERSTAND by collecting, fact checking or challenging the data and other sources. Go to where the data - Genchi Genbutsu attitudes. Data must be Clear, Objective, Valuable, Focus, Agile, Scientific and Timeframe (COV-FAST)</b></p>
     <p style = "font-family:Verdana; font-size:14px">There are other methodologies may be considered like, logistic regression, random forest or neural networking. We can use the same preprocessing dataset and try each options methodologies in seperate notebooks</p>
 </div>
     <h3>Methodologies Overview</h3>
