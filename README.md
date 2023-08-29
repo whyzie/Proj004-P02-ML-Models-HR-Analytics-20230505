@@ -417,7 +417,7 @@ Next Steps
 <br><br>
 It may be justified to still have some concern about data leakage. It could be prudent to consider how predictions change when `last_evaluation` and employee satisfaction is removed from the data. It's possible that evaluations aren't performed very frequently, in which case it would be useful to be able to predict employee retention without this feature. <b>It's also possible that the evaluation score determines whether an employee leaves or stays, in which case it could be useful to pivot and try to predict performance score. The same could be said for satisfaction score.</b>. After setting the features, it may be more productive to focus on the medium to the top talent employee which possibility has the most satisfied score.
 <br><br>
-We can also see the cluster from this model which k = 15.
+We can also see the cluster from this model which k = 16.
 </div>
   
 <h3 style = "text-align:center">Figure 2. Fishbone Diagram Employee Churn (Stayed or Left) Profile</h3>
