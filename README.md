@@ -10,8 +10,8 @@ Predicting Employee Retention (employee stayed or left) profile
 <hr>
 
 <h3 style="text-align:justify">The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company. The goals in this project are to analyze the data collected by the HR department and to build <b>a model that predicts whether or not an employee will leave the company</b> or <b> an employee will stay in the company</b>. 
-
-by predicting employees likely to quit, it might be possible to identify factors that contribute to their leaving. Because it is time-consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company.</h3> 
+<br>
+By predicting employees likely to quit, it might be possible to identify factors that contribute to their leaving. Because it is time-consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company. The detail analysis is provided in <a href="https://www.kaggle.com/code/wahyuardhitama/proj004-p02-ml-models-hr-analytics-20230505/">kaggle,</a></h3> 
 <p style = "font-family: Arial; font-size: 18px">Note: This project's dataset was created for pedagogical purposes and may not be indicative of Salifort Motors.</p>
 </div> 
 
